@@ -1,8 +1,8 @@
-# Welcome to movie-analysis repository
+# SC1015 Mini Project
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the World Happiness report (https://worldhappiness.report/)
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the World Happiness Report (https://worldhappiness.report/)
 
   
 ## Contributors
