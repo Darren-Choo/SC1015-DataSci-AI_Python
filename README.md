@@ -22,7 +22,7 @@ Members:
 2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
-6. [What did we learn from this project](#What-did-we-learn-from-this-project)
+6. [Key Learning Points](#Key-Learning-Points)
 7. [References](#References)
 
 ## Problem Definition
@@ -45,7 +45,7 @@ Members:
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
 
-## What did we learn from this project?
+## Key Learning Points
 - Learnt to apply K-fold cross-validation in our project.
 - Handling datasets with missing and irrelavant data.
 
