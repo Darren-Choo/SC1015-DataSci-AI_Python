@@ -31,7 +31,7 @@ Members:
 8. [References](#References)
 
 ## Problem Formulation
-- To find out what variables are the most important in predicting life ladder (The rankings of national happiness are based on the ladder score) .
+- To find out what variables are the most important in predicting life ladder (The rankings of national happiness are based on the ladder score).
 - To build a model that best predicts the life ladder of different countries considering various regression models.
 
 ## Regression models and Cross-validation techniques used
@@ -50,7 +50,7 @@ In this section, we prepared and cleaned the dataset to help us retrieve variabl
 
 Carried out the following tasks:
 
-- **Identifying** Irrelevant and relevant variables in our dataset. 
+- **Identifying** irrelevant and relevant variables in our dataset. 
 - **Visualised** missing data using the missingno Library.
 - **Dropping** variables with more than 60% of missing data and irrelevant variables according to our research. 10 variables were dropped.
 - **Filled** up the rest of the variables with missing data the **median** value.
@@ -95,7 +95,7 @@ Carried out the following tasks:
 - Handling datasets with missing and irrelevant data.
 - Learnt new visualisation techniques like missingno library.
 - Learnt to apply K-fold cross-validation to increase the accuracy of our models.
-- Learnt new regression models like random forest and eXtreme gradient boosting regression
+- Learnt new regression models like random forest and eXtreme gradient boosting regression.
 
 ## References
 - https://worldhappiness.report/
