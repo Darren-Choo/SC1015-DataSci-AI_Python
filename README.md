@@ -61,7 +61,7 @@ Carried out the following tasks:
 
 >|**Regression models**|**Hold-out cross validation**|**K-fold cross validation**|
 >|---|---|---|
->|Multivariate Linear Regression| Resulting Correlation Score of 0.721 |Resulting Correlation Score of 0.753 |
+>|Multivariate Linear Regression| Resulting Correlation Score of **0.721** |Resulting Correlation Score of **0.753** |
 >|Random Forest Regressor|Resulting Correlation Score of 0.863 |Resulting Correlation Score of 0.876 |
 >|eXtreme Gradient Boosting Regression|Resulting Correlation Score of 0.791 |Resulting Correlation Score of 0.845 |
 
@@ -75,7 +75,7 @@ Carried out the following tasks:
 
 ## Key Learning Points
 - Learnt to apply K-fold cross-validation in our project.
-- Handling datasets with missing and irrelavant data.
+- Handling datasets with missing and irrelevant data.
 
 ## References
 - https://worldhappiness.report/
