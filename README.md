@@ -57,9 +57,8 @@ Carried out the following tasks:
 - 
 
 ## Machine Learning
-- MISSING
+
 >|**Regression models**|
->| ---| 
 >|Multivariate Linear Regression|
 >|Random Forest Regressor|
 >|eXtreme Gradient Boosting Regression|
