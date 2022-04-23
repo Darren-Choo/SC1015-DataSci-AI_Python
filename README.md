@@ -90,8 +90,14 @@ Carried out the following tasks:
 - Singapore should focus on improving these 3 components to achieve the highest increase in life ladder.
 
 ## Key Learning Points
-- Learnt to apply K-fold cross-validation in our project.
 - Handling datasets with missing and irrelevant data.
+- Learnt new visualisation techniques like missingno library.
+- Learnt to apply K-fold cross-validation to increase the accruracy of our models.
+- Learnt new regression models like random forest and eXtreme gradient boosting regression
 
 ## References
 - https://worldhappiness.report/
+- https://www.kaggle.com/code/javadzabihi/happiness-2017-visualization-prediction
+- https://towardsdatascience.com/battle-of-the-ensemble-random-forest-vs-gradient-boosting-6fbfed14cb7
+- https://machinelearningmastery.com/extreme-gradient-boosting-ensemble-in-python/
+- https://machinelearningmastery.com/k-fold-cross-validation/
