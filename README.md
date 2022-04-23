@@ -36,7 +36,7 @@ Members:
 2. Random Forest Regression
 3. eXtreme Gradient Boosting Regression
 
-## Conclusion
+## Data Driven Insights and Conclusion
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
 - 
 
