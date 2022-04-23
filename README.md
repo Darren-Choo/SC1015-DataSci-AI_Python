@@ -22,7 +22,7 @@ Members:
 2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
-6. [What did we learn from this project?](#What-did-we-learn-from-this-project-?)
+6. [What did we learn from this project?](#What-did-we-learn-from-this-project?)
 7. [References](#References)
 
 ## Problem Definition
