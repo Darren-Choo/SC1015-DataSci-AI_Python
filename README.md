@@ -54,7 +54,7 @@ Carried out the following tasks:
 
 - **Identifying** Irrelevant and relevant variables in our dataset. 
 - **Visualised** missing data using the missingno Library.
-- **Dropping** variables with more than 60% of missing data. 10 variables were dropped.
+- **Dropping** variables with more than 60% of missing data and irrelevant variables according to our research. 10 variables were dropped.
 - **Filled** up the rest of the variables with missing data the **median** value.
 
 
