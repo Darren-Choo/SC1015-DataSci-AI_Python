@@ -77,7 +77,7 @@ Carried out the following tasks:
 >|Multivariate Linear Regression| Explained Variance Score of **0.721** |Explained Variance Score of **0.753** |
 >|Random Forest Regressor|Explained Variance Score of **0.863** |Explained Variance Score of **0.876** |
 >|eXtreme Gradient Boosting Regression|Explained Variance Score of **0.791** |Explained Variance Score of **0.845** |
-> #### Comparison of explained variance between the three models
+> ### Comparison of explained variance between the three models using k-fold CV
 > ![alt text](https://github.com/Darren-Choo/SC1015-DataSci-AI_Python/blob/main/Images/Explained_Variance_models.png)
 #### <br>
 
