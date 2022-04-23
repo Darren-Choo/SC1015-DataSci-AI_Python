@@ -61,7 +61,7 @@ Carried out the following tasks:
 - Compared explained variance between each variable using univariate linear regression.
   - The same 3 variables had the lowest explained variance values, thus we decided to drop them. 
 - Analysed and Compared correlations before and after outlier removal.
-  - evaluated that removal of outliers worsened the relationship between our variables and life ladder.
+  - Evaluated that removal of outliers worsened the relationship between our variables and life ladder.
 - Compared explained variance with and without K-fold cross-validation.
 
 ## Machine Learning
