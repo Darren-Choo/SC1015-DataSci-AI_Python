@@ -18,7 +18,7 @@ Members:
 3. Darren Wong ([@darrenwwx](https://github.com/darrenwwx))
 
 ## Table of Contents:
-1. [Problem Formulation](#1-Problem-Formlation)
+1. [Problem Defintion](#1-Problem-Definition)
 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
 4. [Dimensionality Reduction](#4-Dimensionality-Reduction)
