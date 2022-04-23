@@ -59,11 +59,11 @@ Carried out the following tasks:
 
 ## Machine Learning
 
->|**Regression models**|
->|---|
->|Multivariate Linear Regression|
->|Random Forest Regressor|
->|eXtreme Gradient Boosting Regression|
+>|**Regression models**|**Hold-out cross validation**|**K-fold cross validation**|
+>|---|---|---|
+>|Multivariate Linear Regression| Resulting Correlation Score of 0.721 |Resulting Correlation Score of 0.753 |
+>|Random Forest Regressor|Resulting Correlation Score of 0.863 |Resulting Correlation Score of 0.876 |
+>|eXtreme Gradient Boosting Regression|Resulting Correlation Score of 0.791 |Resulting Correlation Score of 0.845 |
 
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
