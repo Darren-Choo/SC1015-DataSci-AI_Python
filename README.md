@@ -66,7 +66,7 @@ Carried out the following tasks:
   - The same 3 variables had the lowest explained variance values, thus we decided to drop them. 
 - Analysed and Compared correlations before and after outlier removal.
   - Evaluated that removal of outliers worsened the relationship between our variables and life ladder.
-- Compared explained variance with and without K-fold cross-validation.
+- Compared explained variance when using Holdout cross-validation and K-fold cross-validation. We decided to use k-fold as it's accuracy is better.
 
 ## Machine Learning
 
