@@ -92,7 +92,7 @@ Carried out the following tasks:
 ## Key Learning Points
 - Handling datasets with missing and irrelevant data.
 - Learnt new visualisation techniques like missingno library.
-- Learnt to apply K-fold cross-validation to increase the accruracy of our models.
+- Learnt to apply K-fold cross-validation to increase the accuracy of our models.
 - Learnt new regression models like random forest and eXtreme gradient boosting regression
 
 ## References
