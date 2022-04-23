@@ -32,7 +32,7 @@ Members:
 7. [References](#References)
 
 ## Problem Formulation
-
+- To find out what variables are the most important in predicting life ladder.
 - To build a model that best predicts the life ladder of different countries considering various regression models.
 
 ## Models Used
