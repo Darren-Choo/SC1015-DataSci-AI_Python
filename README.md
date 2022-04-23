@@ -21,7 +21,7 @@ Members:
 1. [Problem Defintion](#1-Problem-Definition)
 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
-5. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
+5. [Data Driven Insights and Conclusion](#Data-Driven-Insights-and-Conclusion)
 6. [Recommendations](#6-Recommendations)
 7. [References](#7-References)
 
@@ -36,7 +36,7 @@ Members:
 2. Random Forest Regression
 3. eXtreme Gradient Boosting Regression
 
-## [Data Driven Insights and Conclusion]
+## Data Driven Insights and Conclusion
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
 - 
 
