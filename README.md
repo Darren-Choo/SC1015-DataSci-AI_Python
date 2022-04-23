@@ -15,7 +15,7 @@ We wanted to abstract and utilise the important factors that affect the happines
 School of Computer Science and Engineering \
 Nanyang Technological University \
 Lab: DFS 2 \
-Group : 3
+Group: 3
 
 Members: 
 1. Darren Choo ([@Darren-choo](https://github.com/Darren-choo))
@@ -53,9 +53,16 @@ Carried out the following tasks:
 
 
 ## Exploratory Data Analysis
-- Analysing and Comparing correlations before and after outlier removal.
-- Comparing explained variance between each variable using univariate linear regression.
-- Comparing explained variance with and without K-fold cross-validation.
+In this section, we went on to analysed the relationship of the remaining variables with life ladder.
+
+Carried out the following tasks:
+- Analysed the correlation between the variables and Life Ladder.
+  -Identified 3 variables with an extremely weak correlation with life ladder.
+- Compared explained variance between each variable using univariate linear regression.
+  -The same 3 variables had the lowest explained variance values, thus we decided to drop them. 
+- Analysed and Compared correlations before and after outlier removal.
+  - evaluated that removal of outliers worsened the relationship between our variables and life ladder.
+- Compared explained variance with and without K-fold cross-validation.
 
 ## Machine Learning
 
