@@ -55,7 +55,7 @@ Carried out the following tasks:
 ## Exploratory Data Analysis
 - Analysing and Comparing correlations before and after outlier removal.
 - Comparing explained variance between each variable using univariate linear regression.
-- Comparing explained variance with and without K-fold cross-validation
+- Comparing explained variance with and without K-fold cross-validation.
 
 ## Machine Learning
 
