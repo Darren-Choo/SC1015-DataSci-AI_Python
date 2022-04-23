@@ -26,6 +26,7 @@ Members:
 1. [Problem Formulation](#Problem-Formulation)
 2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+4. [Machine Learning](#Machine-Learning)
 5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
 6. [Key Learning Points](#Key-Learning-Points)
 7. [References](#References)
@@ -46,6 +47,8 @@ Members:
 ## Exploratory Data Analysis
 - MISSING
 
+## Machine Learning
+- MISSING
 
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
