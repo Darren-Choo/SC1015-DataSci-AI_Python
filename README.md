@@ -42,7 +42,13 @@ Members:
 3. eXtreme Gradient Boosting Regression
 
 ## Data Preparation and Cleaning
-- MISSING
+In this section, we prepared and cleaned the dataset to retrieve variables that are useful for your project
+Carried out the following tasks:
+
+1.	**Identifying Irrelevant and relevant variables in our dataset. 
+2.	**visualised missing data using the missingno Library.
+3.	**Dropping variables with more than 60% of missing data. 10 variables were dropped.
+
 
 ## Exploratory Data Analysis
 - MISSING
