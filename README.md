@@ -61,12 +61,15 @@ In this section, we went on to analysed the relationship of the remaining variab
 
 Carried out the following tasks:
 - Analysed the correlation between the variables and Life Ladder.
-  -Identified 3 variables with an extremely weak correlation with life ladder.
-- Compared explained variance between each variable using univariate linear regression.
-  - The same 3 variables had the lowest explained variance values, thus we decided to drop them. 
+  -Identified the variables with high and low correlation with life ladder. 
+  -We decide to include those variables with high correlation in our regression model to predict life ladder.
+  -We identified 3 variables with an extremely weak correlation with life ladder and decide to look further into them to decide if we want to drop them.
+- Compared explained variance between the three variables with low correlation using univariate linear regression.
+  - The same 3 variables had the lowest explained variance values, thus we decided to drop them as them most likely had the least impact on life ladder.
 - Analysed and Compared correlations before and after outlier removal.
   - Evaluated that removal of outliers worsened the relationship between our variables and life ladder.
-- Compared explained variance when using Holdout cross-validation and K-fold cross-validation. We decided to use k-fold as it's accuracy is better.
+  - Decided not to drop the outliers.
+- Compared explained variance when using Holdout cross-validation and K-fold cross-validation. We decided to use k-fold CV as it's accuracy is better.
 
 ## Machine Learning
 
