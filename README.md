@@ -67,6 +67,11 @@ Carried out the following tasks:
 
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
+- Looking at the correlation and explained variance values of the variables in our dataset, we found the 3 most important variables in predicting life ladder.
+  - Log GDP Per Capita
+  - Social Support
+  - Health Life Expectancy at birth
+- Singapore should focus on improving these 3 components to achieve the highest increase in life ladder.
 
 ## Key Learning Points
 - Learnt to apply K-fold cross-validation in our project.
