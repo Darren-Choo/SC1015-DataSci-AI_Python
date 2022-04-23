@@ -51,7 +51,8 @@ Carried out the following tasks:
 
 
 ## Exploratory Data Analysis
-- MISSING
+- Comparing correlations before and after outlier removal.
+- 
 
 ## Machine Learning
 - MISSING
