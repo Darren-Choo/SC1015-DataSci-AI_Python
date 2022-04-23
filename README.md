@@ -41,7 +41,8 @@ Members:
 - 
 
 ## What did we learn from this project?
-
+- Learnt to apply K-fold cross-validation in our project.
+- Handling datasets with missing and irrelavant data.
 - 
 
 ## References
