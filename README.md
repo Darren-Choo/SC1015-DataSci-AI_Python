@@ -24,22 +24,28 @@ Members:
 
 ## Table of Contents:
 1. [Problem Formulation](#Problem-Formulation)
-2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
-3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
-4. [Machine Learning](#Machine-Learning)
-5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
-6. [Key Learning Points](#Key-Learning-Points)
-7. [References](#References)
+2. [Regression models and Cross-validation techniques used](#Regression-models-and-Cross-validation-techniques-used)
+3. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
+4. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+5. [Machine Learning](#Machine-Learning)
+6. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
+7. [Key Learning Points](#Key-Learning-Points)
+8. [References](#References)
 
 ## Problem Formulation
 - To find out what variables are the most important in predicting life ladder.
 - To build a model that best predicts the life ladder of different countries considering various regression models.
 
-## Models Used
+## Regression models and Cross-validation techniques used
 
+###  Regression models
 - Multivariate Linear Regression 
 - Random Forest Regression
 - eXtreme Gradient Boosting Regression
+
+### Cross-validation techniques
+- Hold-out cross-validation
+- K-fold cross-validation
 
 ## Data Preparation and Cleaning
 In this section, we prepared and cleaned the dataset to help us retrieve variables that are useful for our project.
