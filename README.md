@@ -69,7 +69,8 @@ Carried out the following tasks:
 - Analysed and Compared correlations before and after outlier removal.
   - Evaluated that removal of outliers worsened the relationship between our variables and life ladder.
   - Decided not to drop the outliers.
-- Compared explained variance when using Holdout cross-validation and K-fold cross-validation. We decided to use k-fold CV as it's accuracy is better.
+- Compared explained variance when using Holdout cross-validation and K-fold cross-validation. 
+  - We decided to use k-fold CV as it's accuracy is better.
 
 ## Machine Learning
 
