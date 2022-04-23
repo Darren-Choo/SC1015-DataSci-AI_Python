@@ -7,9 +7,9 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-School of Computer Science and Engineering
-Nanyang Technological University
-Lab: DFS 2
+School of Computer Science and Engineering \
+Nanyang Technological University \
+Lab: DFS 2 \
 Group : 3
 
 Members: 
