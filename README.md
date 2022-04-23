@@ -18,17 +18,16 @@ Members:
 3. Darren Wong ([@darrenwwx](https://github.com/darrenwwx))
 
 ## Table of Contents:
-1. [Problem Definition](#1-Problem-Definition)
-2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
-3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
-5. [Data Driven Insights and Conclusion](#Data-Driven-Insights-and-Conclusion)
-6. [Recommendations](#6-Recommendations)
-7. [References](#7-References)
+1. [Problem Definition](#Problem-Definition)
+2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
+3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
+5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
+6. [What did we learn from this project?](#What-did-we-learn-from-this-project?)
+7. [References](#References)
 
 ## Problem Definition
 
 - To build a model that best predicts the life ladder of different countries considering various regression models.
-
 
 ## Models Used
 
@@ -36,13 +35,18 @@ Members:
 2. Random Forest Regression
 3. eXtreme Gradient Boosting Regression
 
-## Data Driven Insights and Conclusion
+## Data Preparation and Cleaning
+- MISSING
+
+## Exploratory Data Analysis
+- MISSING
+
+
+## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
-- 
 
 ## What did we learn from this project?
 - Learnt to apply K-fold cross-validation in our project.
 - Handling datasets with missing and irrelavant data.
-- 
 
 ## References
