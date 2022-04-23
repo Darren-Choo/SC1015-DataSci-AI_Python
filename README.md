@@ -72,6 +72,10 @@ Carried out the following tasks:
 >|Random Forest Regressor|Explained Variance Score of **0.863** |Explained Variance Score of **0.876** |
 >|eXtreme Gradient Boosting Regression|Explained Variance Score of **0.791** |Explained Variance Score of **0.845** |
 
+> #### Comparison of explained variance between the three models
+> ![alt text](https://github.com/Darren-Choo/SC1015-DataSci-AI_Python/blob/main/Images/Comparison_of_models.png)
+#### <br>
+
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
 - Looking at the correlation and explained variance values of the variables in our dataset, we found the 3 most important variables in predicting life ladder.
