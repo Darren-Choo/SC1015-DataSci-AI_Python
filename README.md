@@ -4,11 +4,9 @@
 
 This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the World Happiness Report. 
 
-Our group was interested in Singapores happiness score of 6.4, which was the highest amongst our immediate regional neighbours.
+Our group was interested in Singapore's happiness score of 6.4, which was the highest amongst our immediate regional neighbours.
 
-We wanted to abstract and utilise the important factors that affect the happiness score of a country, and use them to predict future data by training a model.
-
-
+We wanted to abstract and utilise the important factors that affect a country's happiness score and use them to predict future data by training a model.
   
 ## Contributors
 
@@ -33,7 +31,7 @@ Members:
 8. [References](#References)
 
 ## Problem Formulation
-- To find out what variables are the most important in predicting life ladder.
+- To find out what variables are the most important in predicting life ladder (The rankings of national happiness are based on the ladder score) .
 - To build a model that best predicts the life ladder of different countries considering various regression models.
 
 ## Regression models and Cross-validation techniques used
