@@ -2,7 +2,9 @@
 
 ## About
 
-This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the World Happiness Report (https://worldhappiness.report/)
+This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on the World Happiness Report (https://worldhappiness.report/). Our group was interested in Singapores happiness score of 6.4, which was the highest amongst our immediate regional neighbours.
+We wanted to abstract and utilise the important factors that affect the happiness score of a country, and use them to predict future data by training a model.
+
 
   
 ## Contributors
