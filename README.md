@@ -18,7 +18,7 @@ Members:
 3. Darren Wong ([@darrenwwx](https://github.com/darrenwwx))
 
 ## Table of Contents:
-1. [Problem Defintion](#1-Problem-Definition)
+1. [Problem Definition](#1-Problem-Definition)
 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
 5. [Data Driven Insights and Conclusion](#Data-Driven-Insights-and-Conclusion)
