@@ -18,14 +18,14 @@ Members:
 3. Darren Wong ([@darrenwwx](https://github.com/darrenwwx))
 
 ## Table of Contents:
-1. [Problem Definition](#Problem-Definition)
+1. [Problem Formulation](#Problem-Formulation)
 2. [Data Preparation and Cleaning](#Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 5. [Data Driven Insights and recommendations](#Data-Driven-Insights-and-recommendations)
 6. [Key Learning Points](#Key-Learning-Points)
 7. [References](#References)
 
-## Problem Definition
+## Problem Formulation
 
 - To build a model that best predicts the life ladder of different countries considering various regression models.
 
