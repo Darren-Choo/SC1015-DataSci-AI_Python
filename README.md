@@ -7,9 +7,11 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
   
 ## Contributors
 
-- @Darren-choo
-- @jinhui18
-- @darrenwwx
+Members: 
+1. Darren Choo ([@Darren-choo](https://github.com/Darren-choo))
+2. Cheong Jin Hui ([@jinhui18](https://github.com/jinhui18))
+3. Darren Wong ([@darrenwwx](https://github.com/darrenwwx))
+
 
 ## Problem Definition
 
