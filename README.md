@@ -60,9 +60,9 @@ Carried out the following tasks:
 - MISSING
 >|**Regression models**|
 >| ---| 
->|  Multivariate Linear Regression |
->|  Random Forest Regressor |
->|  eXtreme Gradient Boosting Regression |
+>|Multivariate Linear Regression|
+>|Random Forest Regressor|
+>|eXtreme Gradient Boosting Regression|
 
 ## Data Driven Insights and recommendations
 - Random forest regression is the best model to predict life ladder across all the 3 models we used.
