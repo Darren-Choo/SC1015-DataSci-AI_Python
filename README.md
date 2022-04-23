@@ -23,7 +23,7 @@ This is a Mini-Project for SC1015 (Introduction to Data Science and Artificial I
 3. eXtreme Gradient Boosting Regression
 
 ## Conclusion
-
+- Random forest regression is the best model to predict life ladder across all the 3 models we used.
 - 
 
 ## What did we learn from this project?
