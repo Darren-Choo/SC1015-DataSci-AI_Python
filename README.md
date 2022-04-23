@@ -21,9 +21,8 @@ Members:
 1. [Problem Defintion](#1-Problem-Definition)
 2. [Data Preparation and Cleaning](#2-Data-Preparation-and-Cleaning)
 3. [Exploratory Data Analysis](#3-Exploratory-Data-Analysis)
-4. [Dimensionality Reduction](#4-Dimensionality-Reduction)
-5. [Clustering](#5-Clustering)
-6. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
+5. [Data Driven Insights and Conclusion](#6-Data-Driven-Insights-and-Conclusion)
+6. [Recommendations](#6-Recommendations)
 7. [References](#7-References)
 
 ## Problem Definition
