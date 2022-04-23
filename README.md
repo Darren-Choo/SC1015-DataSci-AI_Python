@@ -43,6 +43,7 @@ Members:
 
 ## Data Preparation and Cleaning
 In this section, we prepared and cleaned the dataset to help us retrieve variables that are useful for our project.
+
 Carried out the following tasks:
 
 1.	**Identifying** Irrelevant and relevant variables in our dataset. 
